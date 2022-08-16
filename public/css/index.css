@@ -1,0 +1,11 @@
+#online__colored {
+    color: rgb(13, 143, 30);
+}
+
+#offline__colored {
+    color: rgb(153, 1, 1);
+}
+
+#online__uncolored, #offline__uncolored {
+    color: gray;
+}
